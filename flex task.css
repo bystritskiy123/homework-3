@@ -1,0 +1,149 @@
+body{
+background:lightgray;
+overflow-x:hidden;
+}
+
+
+#logo{
+background:mediumseagreen;
+width:700px;
+height:200px;
+margin-left:100px;
+margin-top:-30px;     
+}
+#logo h1{
+font-size:60px;
+padding:70px 0px;
+}
+
+#poisk{
+background:mediumseagreen;
+width:700px;
+height:200px;
+margin-left:1000px;
+margin-top:-233px; 
+}
+
+#poisk h1{
+padding:70px 0px;
+font-size:50px;
+margin-top:;     
+}
+/*Блок main*/
+#main{
+background:palegoldenrod;
+width:1900px;
+height:50px;
+padding:20px;
+margin-left:-10px; 
+}
+#main #p1{
+background:mediumseagreen;
+width:100px;
+height:30px;
+margin-top:-10px;
+margin-left:50px; 
+}
+#main #p2{
+background:mediumseagreen;
+width:100px;
+height:30px;
+margin-left:300px;
+margin-top:-50px; 
+}
+#main #p3{
+background:mediumseagreen;
+width:100px;
+height:30px;
+margin-left:600px;
+margin-top:-50px;
+}
+#main #p4{
+background:mediumseagreen;
+width:100px;
+height:30px;
+margin-left:900px;
+margin-top:-50px;
+}
+#main #p5{
+background:mediumseagreen;
+width:100px;
+height:30px;
+margin-left:1200px;
+margin-top:-50px;
+}
+
+#main #p6{
+background:mediumseagreen;
+width:100px;
+height:30px;
+margin-left:1500px;
+margin-top:-50px;    
+}/*Блок main*/
+
+/*blocks*/
+#blocks{
+margin-top:50px;
+}
+#blocks #b1{
+background:mediumseagreen;
+width:300px;
+height:30px;     
+}
+#blocks #b2{
+background:mediumseagreen;
+width:300px;
+height:30px;
+margin-top:40px; 
+}
+#blocks #b3{
+background:mediumseagreen;
+width:300px;
+height:30px;
+margin-top:40px;   
+}
+
+#blocks #b4{
+background:mediumseagreen;
+width:300px;
+height:30px;
+margin-top:40px;  
+}
+#blocks #b5{
+background:mediumseagreen;
+width:300px;
+height:30px;
+margin-top:40px;
+}/*blocks*/
+
+/*images*/
+
+#images #elephant{
+margin-left:500px;
+margin-top:-300px; 
+}
+#images #tiger{
+margin-left:1200px;
+margin-top:-300px;
+}
+#images #minipig{
+margin-left:500px;
+margin-top:100px;
+}
+#images #panda{
+margin-left:1200px;
+margin-top:-300px; 
+}/*images*/
+
+/*footer*/
+
+#footer{
+background:mediumseagreen; 
+width:100%;
+height:10%; 
+}
+#footer h2{
+padding:30px;
+font-size:50px; 
+}
+/*footer*/
