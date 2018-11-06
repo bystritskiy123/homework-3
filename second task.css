@@ -37,7 +37,7 @@
     margin-left:1380px;
     margin-top:-300px; 
 }
-@media (max-width:375px){
+@media (max-width:500px){
     #ip1,#ip2,#ip3,#ip4,#ip5{
     display:none;     
     }
